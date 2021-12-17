@@ -21,3 +21,4 @@ artifacts:
     - node_modules/**/*
     - package.json
     - appspec.yml
+    - tsconfig.build.json
